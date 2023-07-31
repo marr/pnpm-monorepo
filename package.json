@@ -6,10 +6,8 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "type": "module",
   "keywords": [],
   "author": "",
-  "license": "ISC",
-  "dependencies": {
-    "@nuxtjs/i18n": "npm:@nuxtjs/i18n-edge@8.0.0-beta.13-28175294.3a94c60"
-  }
+  "license": "ISC"
 }

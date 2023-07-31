@@ -8,8 +8,10 @@
     "preview": "nuxt preview",
     "postinstall": "nuxt prepare"
   },
+  "type": "module",
   "devDependencies": {
     "@nuxt/devtools": "latest",
+    "@nuxtjs/i18n": "npm:@nuxtjs/i18n-edge@8.0.0-beta.13-28175294.3a94c60",
     "@types/node": "^18.17.0",
     "nuxt": "^3.6.5"
   }
